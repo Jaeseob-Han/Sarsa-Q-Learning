@@ -8,7 +8,9 @@
 2. MiniGrid 관련 다른 예제를 하나 선정하여, Sarsa 와 Q-learning 으로 돌려 본 후, 그 결과를 비교 분석 할 것
  - https://minigrid.farama.org/environments/minigrid/EmptyEnv/
  - Crossing, Door key 등
- - 수렴되지 않은 경우에도 결과 비교 분석 하여 제출할 것
+ - 수렴되지 않은 경우에도 결과 비교 분석 하여 제출할 것   
+![DoorKeyEnv](https://github.com/user-attachments/assets/1b75f315-8194-4667-a47c-a74a6b4862a4)
+![DistShiftEnv](https://github.com/user-attachments/assets/64294843-ae56-41f2-8f22-5f38a4c57f1a)
 
 3. 작성 포맷: 학번 이름 및 과제 번호를 표지로 한 후, pdf 파일로 정리하여 이메일 제출
  - 제출 이메일: jaeseob@kookmin.ac.kr
