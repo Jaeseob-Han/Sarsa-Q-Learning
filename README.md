@@ -11,7 +11,6 @@
  - 수렴되지 않은 경우에도 결과 비교 분석 하여 제출할 것   
 ![DistShiftEnv](https://github.com/user-attachments/assets/64294843-ae56-41f2-8f22-5f38a4c57f1a)
 
-### 3. 작성 포맷: 학번 이름 및 과제 번호를 표지로 한 후, pdf 파일로 정리하여 이메일 제출
- - 제출 이메일: jaeseob@kookmin.ac.kr
+### 3. 작성 포맷: 학번 이름 및 과제 번호를 표지로 한 후, pdf 파일로 정리하여 e-campus 제출
 
 ### 4. 기한: 2024.10.15(화) 23:59
